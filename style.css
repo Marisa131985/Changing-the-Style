@@ -1,0 +1,13 @@
+button{
+    background-color: blue;
+   display: block; 
+   width: 150px;
+   height: 30px;
+}
+#details{
+    background-color: gray;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    display:block;
+    width:300px
+}
